@@ -6,6 +6,7 @@ const firebaseConfig = {
   authDomain: "caza-estrellas-18f83.firebaseapp.com",
   projectId: "caza-estrellas-18f83",
   storageBucket: "caza-estrellas-18f83.firebasestorage.app",
+  databaseURL: "https://caza-estrellas-18f83-default-rtdb.firebaseio.com/",
   messagingSenderId: "666502897360",
   appId: "1:666502897360:web:123d26c9431c39430948d5",
   measurementId: "G-2M6PJ3TZZP"
